@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Demo04_Navigation</string>
+    <string name="erreur">Erreur</string>
+    <string name="activit_contact">Activité Contact</string>
+    <string name="activit_web">Activité Web</string>
+    <string name="textview">TextView</string>
+    <string name="deuxi_me_activit">Deuxième Activité</string>
+    <string name="activit_navigation">Activité Navigation</string>
+    <string name="message">Message</string>
+    <string name="sous_activit">Sous-Activité</string>
+    <string name="seconde_activit">Seconde Activité</string>
+    <string name="finir">Finir</string>
+    <string name="share">Share</string>
+    <string name="map">Map</string>
+    <string name="t_l_phone">Téléphone</string>
+    <string name="texte_de_mon_bouton">texte de mon bouton</string>
+    <string name="sous_activity">Sous Activity</string>
+</resources>
